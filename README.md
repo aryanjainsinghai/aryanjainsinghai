@@ -60,3 +60,8 @@
 </div>
 
 ###
+
+### 🐍 Contribution Snake Animation
+![GitHub Snake Light](https://raw.githubusercontent.com/your-username/output/main/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/your-username/output/main/snake-dark.svg#gh-dark-mode-only)
+
