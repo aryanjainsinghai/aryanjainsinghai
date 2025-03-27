@@ -40,8 +40,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aryanjainsinghai/aryanjainsinghai/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/aryanjainsinghai/aryanjainsinghai/blob/output/snake.svg" 
+     alt="GitHub Snake Animation" 
+     style="background-color: white; padding: 10px;">
+     
 ###
 
 <div align="center">
