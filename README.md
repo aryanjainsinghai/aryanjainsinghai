@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aryan Jain</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • DSA in Java • Building Scalable Web Apps
+Full Stack MERN Developer • Building Scalable Web Apps
 </h3>
 
 <!-- <p align="center">
